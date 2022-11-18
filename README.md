@@ -9,7 +9,8 @@ filters reads pa-data-properties and writes to pa-data-filters.json
 gp_all_aas reads pa-data-filters and writes to pa-data-all-pas
 
 ---------------
-![alt text](vdata.bmp "Title")
+# Data pipeline
+![data diagram](vdata.bmp)
 -------------
 closest_gp_aa: The AA with lowest distance from line 1 of excel file created from find_aas with the first PA in franken
 output
