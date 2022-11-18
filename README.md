@@ -8,4 +8,18 @@ properties reads pa-data-dclosest and writes to pa-data-properties.json
 filters reads pa-data-properties and writes to pa-data-filters.json
 gp_all_aas reads pa-data-filters and writes to pa-data-all-pas
 
+---------------
+![alt text](vdata.graphml "Title")
+-------------
+closest_gp_aa: The AA with lowest distance from line 1 of excel file created from find_aas with the first PA in franken
+output
 
+Other AA data: 
+most_common_aa: The most frequent AA in the full capsid
+other_gp_aa: Another AA which was within 5 Angstroms of closest_gp_aa (NA if none)
+closest_aa: The AA with lowest distance from any point in any PA
+other_aa: Another AA which was within 5 Angstroms of closest_aa (NA if none)
+common_gauge_aa: The most common AA from those with distance less than 5 (even if not closest - including other_aa_) from any point from the PA of first row of franken output
+
+AAs contains full capsid AA counts for each virus
+close_aas contains the pool from which common_gauge_aa is chosen 
