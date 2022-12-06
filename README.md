@@ -25,6 +25,9 @@ common_gauge_aa: The most common AA from those with distance less than 5 (even i
 AAs contains full capsid AA counts for each virus
 close_aas contains the pool from which common_gauge_aa is chosen 
 
+analyze_uniq.ipynb contains analysis stuff for AA data
+custom_pa.ipynb contains analysis stuff for PAs and correlations with other data
+
 TODO: 
 Account for blank fields
 
