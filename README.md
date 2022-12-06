@@ -24,3 +24,7 @@ common_gauge_aa: The most common AA from those with distance less than 5 (even i
 
 AAs contains full capsid AA counts for each virus
 close_aas contains the pool from which common_gauge_aa is chosen 
+
+TODO: 
+Account for blank fields
+
