@@ -28,6 +28,6 @@ close_aas contains the pool from which common_gauge_aa is chosen
 analyze_uniq.ipynb contains analysis stuff for AA data
 custom_pa.ipynb contains analysis stuff for PAs and correlations with other data
 
-TODO: 
-Account for blank fields
-
+TODO:
+describe AA analysis in analyze_uniq.ipynb
+describe custom_pas.ipynb (and do something cool?)
