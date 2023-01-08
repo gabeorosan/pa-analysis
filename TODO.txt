@@ -1,5 +1,8 @@
-readme
-sort nb scripts
-sort pie graph by AA categories
-plot aa stuff (pic)
-sort filters
+reminder to refresh graphs
+code/repo roadmap
+describe count vs average in heatmap
+fold total 
+pie legend
+click between reduced set
+take from 2020 paper on PAs
+find_aas algorithm

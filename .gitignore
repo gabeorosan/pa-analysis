@@ -1,3 +1,5 @@
 **/
+.DS_Store
+.jovianrc
 old_data_folder
 *.json
